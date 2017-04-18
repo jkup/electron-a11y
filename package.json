@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/jkup/electron-a11y/issues"
   },
-  "homepage": "https://github.com/jkup/electron-a11y#readme"
+  "homepage": "https://github.com/jkup/electron-a11y#readme",
+  "dependencies": {
+    "electron": "^1.6.2"
+  }
 }
