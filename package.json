@@ -1,0 +1,24 @@
+{
+  "name": "electron-a11y",
+  "version": "0.0.1",
+  "description": "Demo project for electron accessibility talk",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jkup/electron-a11y.git"
+  },
+  "keywords": [
+    "electron",
+    "accessibility",
+    "a11y"
+  ],
+  "author": "Jon Kuperman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jkup/electron-a11y/issues"
+  },
+  "homepage": "https://github.com/jkup/electron-a11y#readme"
+}
