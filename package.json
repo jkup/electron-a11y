@@ -26,6 +26,7 @@
     "electron": "^1.6.2"
   },
   "devDependencies": {
-    "devtron": "^1.4.0"
+    "devtron": "^1.4.0",
+    "spectron": "^3.6.1"
   }
 }
