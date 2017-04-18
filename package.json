@@ -2,7 +2,7 @@
   "name": "electron-a11y",
   "version": "0.0.1",
   "description": "Demo project for electron accessibility talk",
-  "main": "main.js",
+  "main": "lib/main.js",
   "scripts": {
     "start": "electron .",
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -26,8 +26,6 @@
     "electron": "^1.6.2"
   },
   "devDependencies": {
-    "devtron": "^1.4.0",
-    "mocha": "^3.2.0",
-    "spectron": "^3.6.1"
+    "devtron": "^1.4.0"
   }
 }
