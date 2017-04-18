@@ -27,6 +27,7 @@
   },
   "devDependencies": {
     "devtron": "^1.4.0",
+    "mocha": "^3.2.0",
     "spectron": "^3.6.1"
   }
 }
