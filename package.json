@@ -23,5 +23,8 @@
   "homepage": "https://github.com/jkup/electron-a11y#readme",
   "dependencies": {
     "electron": "^1.6.2"
+  },
+  "devDependencies": {
+    "devtron": "^1.4.0"
   }
 }
